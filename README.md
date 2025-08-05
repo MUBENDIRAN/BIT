@@ -1,11 +1,10 @@
-# 🔌 BIT – IoT-Based Device Control using ESP32, Blynk, and ThingSpeak
+# 🔌 BIT – (Blynk IoT ThingSpeak)
 
 ![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
 ![Tech](https://img.shields.io/badge/IoT-Enabled-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 
 **Duration:** May 2025  
-**Affiliation:** Rajalakshmi Institute of Technology  
 
 ---
 
@@ -66,23 +65,15 @@
 
 ---
 
-## 📸 Demo & Flow Diagram
+## 🎥 YouTube Demo
 
-> _Coming soon: Add GIF/video or flowchart here_
+Watch the live demonstration of the **BIT – Blynk IoT ThingSpeak** project in action:
 
----
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-## 👨‍💻 Author
 
-**Mubendiran K**  
-[GitHub](https://github.com/MUBENDIRAN) • [LinkedIn](https://www.linkedin.com/in/mubendiran-k)  
 
 ---
 
-## 🎵 Music Credit
 
-- Background Music: [Elektronomia - Sky High (NCS)](https://youtu.be/TW9d8vYrVFQ)
 
----
-
-> _“IoT isn’t just the future—it's the present. BIT makes smart control real, accessible, and cloud-integrated.”_
