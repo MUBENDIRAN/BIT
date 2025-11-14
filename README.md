@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
 ![Tech](https://img.shields.io/badge/IoT-Enabled-brightgreen)
-![Status](https://img.shields.io/badge/Status-Prototype-orange)
+
 
 **Duration:** May 2025  
 
@@ -69,7 +69,7 @@
 
 Watch the live demonstration of the **BIT – Blynk IoT ThingSpeak** project in action:
 
-[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://youtu.be/AoHz-aVm61Q)
 
 
 
